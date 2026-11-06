@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=17c0eb&height=260&section=header&text=Cold%20Gun%27s%20GitHub&fontSize=58&fontColor=ffffff&animation=fadeIn" width="100%" alt="Hanmogo's GitHub header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=17c0eb&height=260&section=header&text=Hanmogo%27s%20GitHub&fontSize=58&fontColor=ffffff&animation=fadeIn" width="100%" alt="Hanmogo's GitHub header" />
 
 # HANMOGO
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=17c0eb&height=260&section=header&text=Hanmogo%27s%20GitHub&fontSize=58&fontColor=ffffff&animation=fadeIn" width="100%" alt="Hanmogo's GitHub header" />
+<img src="./assets/profile-header.png" width="100%" alt="Hanmogo's GitHub — 보라색 곡선과 남색 그라데이션 배너" />
 
 # HANMOGO
 

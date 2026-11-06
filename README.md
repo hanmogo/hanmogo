@@ -2,7 +2,6 @@
 
 <img src="./assets/profile-header.png" width="100%" alt="Hanmogo's GitHub — 보라색 곡선과 남색 그라데이션 배너" />
 
-# HANMOGO
 
 AI 백엔드 개발자를 공부하고 있습니다.
 

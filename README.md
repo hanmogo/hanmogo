@@ -6,7 +6,7 @@
 
 AI 백엔드 개발자를 공부하고 있습니다.
 
-[![GitHub](https://img.shields.io/badge/GitHub-coldgeon-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hanmogo)
+[![GitHub](https://img.shields.io/badge/GitHub-hanmogo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hanmogo)
 
 </div>
 

@@ -15,7 +15,7 @@ AI 백엔드 개발자를 공부하고 있습니다.
 
 ## 🌟 Contact
 
-- GitHub: [@coldgeon](https://github.com/hanmogo)
+- GitHub: [@hanmogo](https://github.com/hanmogo)
 
 
 ## 📒 Tech Stack
